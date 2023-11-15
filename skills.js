@@ -1,1 +1,1 @@
-function calculatenumbers
+function calculatenumbers(a)
